@@ -1,3 +1,3 @@
 import TestModule;
 
-TestModule.greeting('Handsome MP');
+TestModule.greeting('Fucking Handsome MP');
